@@ -54,12 +54,16 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kausalya-S&show_icons=true&theme=radical" alt="stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kausalya-S&layout=compact&theme=radical" alt="langs" height="160"/>
+  <!-- This Year Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Kausalya-S&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=github" alt="stats" height="160"/>
+  
+  <!-- Custom Languages Instead of Most Used -->
+  <img src="https://skillicons.dev/icons?i=java,spring,react,mysql,php,html,css,js" height="160" alt="tech stack"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kausalya-S&theme=radical" alt="streak" height="160"/>
+  <!-- Contribution Streak This Year -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kausalya-S&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakNum=DD2727" alt="streak" height="160"/>
 </p>
 
 <p align="center">
@@ -67,7 +71,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kausalya-S&theme=react-dark" alt="activity graph"/>
+  <!-- Contributions This Year -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kausalya-S&theme=react-dark&area=true&hide_border=true" alt="activity graph"/>
 </p>
 
 ---
