@@ -57,11 +57,6 @@ A full-stack system to manage users with authentication and CRUD operations.
 - 🏅 Internships at **Vinidra Softech** & **Zidio Development** as Software Developer  
 - 🏆 Built multiple web projects during internships & courses  
 
----
-
-## 📊 GitHub Stats
-![Kausalya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kausalya-S&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kausalya-S&layout=compact&theme=radical)  
 
 ---
 
