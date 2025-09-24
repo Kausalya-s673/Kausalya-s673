@@ -14,3 +14,61 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hi, I'm Kausalya S  
+
+🎯 Aspiring Software Developer 
+
+---
+
+## 🚀 About Me
+- 🎓 B.Sc. in Computer Science (8.3 CGPA) | Diploma in IT  
+- 💻 Completed **Java Full Stack** course at JSpiders  
+- 🌱 Currently learning **MERN Stack** and **DSA in Java**  
+- 🎯 Goal: Become a **professional developer** and an **interview-ready engineer**  
+
+---
+
+## 🛠️ Tech Stack
+**Languages & Frameworks:**  
+- Java (Spring Boot), JavaScript (React.js), PHP, HTML, CSS  
+
+**Databases:**  
+- MySQL  
+
+**Tools & Platforms:**  
+- Git & GitHub | VS Code | IntelliJ IDEA  
+
+---
+
+## 📌 Projects
+### 🔹 [Resume Builder](#)
+A web-based resume generator with customizable templates.  
+*Tech:* HTML, CSS, JavaScript  
+
+### 🔹 [User Management System](#)
+A full-stack system to manage users with authentication and CRUD operations.  
+*Tech:* Java, Spring Boot, MySQL  
+
+
+---
+
+## 🌟 Achievements
+- 🎖️ NCC C Certificate (Grade A)  
+- 🏅 Internships at **Vinidra Softech** & **Zidio Development** as Software Developer  
+- 🏆 Built multiple web projects during internships & courses  
+
+---
+
+## 📊 GitHub Stats
+![Kausalya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kausalya-S&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kausalya-S&layout=compact&theme=radical)  
+
+---
+
+## 🌐 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/kausalya-s/)  
+- 📧 Email: kausalyas673@gmail.com  
+- 🌍 Portfolio: https://portfolio-kausalya.vercel.app/ 
+
+---
+✨ *“Code. Debug. Learn. Repeat.”*  
