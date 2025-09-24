@@ -1,69 +1,88 @@
-## Hi there 👋
-
-<!--
-**Kausalya-s673/Kausalya-s673** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 👋 Hi, I'm Kausalya S  
-
-🎯 Aspiring Software Developer 
+<h1 align="center">Hi 👋, I'm Kausalya S</h1>
+<h3 align="center">Java Full Stack Developer | React Js Developer</h3>
 
 ---
 
 ## 🚀 About Me
-- 🎓 B.Sc. in Computer Science (8.3 CGPA) | Diploma in IT  
+- 🎓 B.Sc. in Computer Science (8.2 CGPA) | Diploma in IT  
 - 💻 Completed **Java Full Stack** course at JSpiders  
 - 🌱 Currently learning **MERN Stack** and **DSA in Java**  
-- 🎯 Goal: Become a **professional developer** and an **interview-ready engineer**  
+- 🎯 Goal: Become a **professional developer** 
 
 ---
 
-## 🛠️ Tech Stack
-**Languages & Frameworks:**  
-- Java (Spring Boot), JavaScript (React.js), PHP, HTML, CSS  
+## 🛠️ Tech Stack  
 
-**Databases:**  
-- MySQL  
+### 🌐 Frontend Development  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
 
-**Tools & Platforms:**  
-- Git & GitHub | VS Code | IntelliJ IDEA  
+### ⚙️ Backend Development  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) 
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)  
+
+### 🗄️ Database & Cloud  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+
+### 🔧 Tools & Others  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) 
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) 
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)  
+![Eclipse IDE](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)  
 
 ---
 
-## 📌 Projects
-### 🔹 [Resume Builder](#)
-A web-based resume generator with customizable templates.  
-*Tech:* HTML, CSS, JavaScript  
+## 📌 Projects  
 
-### 🔹 [User Management System](#)
-A full-stack system to manage users with authentication and CRUD operations.  
-*Tech:* Java, Spring Boot, MySQL  
-
+- 🔹 [Resume Builder](#) — Web-based resume generator with customizable templates. *(HTML, CSS, JS)*  
+- 🔹 [User Management System](#) — Full-stack CRUD system with authentication. *(Java, Spring Boot, MySQL)*  
+- 🔹 [Mood Board Creator (In Progress)](#) — Drag-and-drop canvas tool for creatives. *(HTML, CSS, JavaScript)*  
 
 ---
 
-## 🌟 Achievements
+## 🏆 Achievements  
 - 🎖️ NCC C Certificate (Grade A)  
-- 🏅 Internships at **Vinidra Softech** & **Zidio Development** as Software Developer  
-- 🏆 Built multiple web projects during internships & courses  
+- 🏅 Internships at **Vinidra Softech** & **Zidio Development** (Software Developer Intern)  
+- 🏆 Multiple academic & course projects in **Java Full Stack & Web Development**  
 
+---
+
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kausalya-S&show_icons=true&theme=radical" alt="stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kausalya-S&layout=compact&theme=radical" alt="langs" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kausalya-S&theme=radical" alt="streak" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kausalya-S&theme=onedark&row=1&column=6" alt="trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kausalya-S&theme=react-dark" alt="activity graph"/>
+</p>
 
 ---
 
-## 🌐 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/kausalya-s/)  
-- 📧 Email: kausalyas673@gmail.com  
-- 🌍 Portfolio: https://portfolio-kausalya.vercel.app/ 
+## 🌐 Connect With Me  
+
+<p align="left">
+<a href="https://www.linkedin.com/in/kausalya-s/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Kausalya-S" target="_blank">
+<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
+
 ✨ *“Code. Debug. Learn. Repeat.”*  
