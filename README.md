@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 B.Sc. in Computer Science (8.2 CGPA) | Diploma in IT  
+- 🎓 B.Sc. in Computer Science (8.3 CGPA) | Diploma in IT  
 - 💻 Completed **Java Full Stack** course at JSpiders  
 - 🌱 Currently learning **MERN Stack** and **DSA in Java**  
 - 🎯 Goal: Become a **professional developer** 
